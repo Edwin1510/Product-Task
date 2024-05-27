@@ -1,0 +1,53 @@
+[
+
+    {
+        "productname":"Tshirt",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsC83T0nfw-3VTlOjvAoq3LIrDV01UOOR27Q&usqp=CAU",
+        "prize":500
+
+    },
+
+    {
+        "productname":"Rubber",
+        "image":"https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/jioretailer/products/pictures/item/free/original/DhEC7InZga-kelvinator-satt-8-0kg-kws-a800tb-491604428-i-1-1200wx1200h.jpeg",
+        "prize":10
+
+    },
+
+    {
+        "productname":"Pant",
+        "image":"https://t3.ftcdn.net/jpg/04/83/25/50/360_F_483255019_m1r1ujM8EOkr8PamCHF85tQ0rHG3Fiqz.jpg",
+        "prize":850
+
+    },
+
+    {
+        "productname":"Shirt",
+        "image":"https://www.beyours.in/cdn/shop/products/light-blue-classic-shirt-5.jpg?v=1715933855&width=1200",
+        "prize":850
+
+    },
+
+    {
+        "productname":"TV",
+        "image":"https://www.sony.co.in/image/ff0a71866476e0ad65b8d848f2d7b40c?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9",
+        "prize":8500
+
+    },
+
+    {
+        "productname":"Air-cooler",
+        "image":"https://sharptronics.in/cdn/shop/products/41pIILbG_2BTL.jpg?v=1615006077",
+        "prize":4500
+
+    },
+
+    {
+        "productname":"washine-mechine",
+        "image":"https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/jioretailer/products/pictures/item/free/original/DhEC7InZga-kelvinator-satt-8-0kg-kws-a800tb-491604428-i-1-1200wx1200h.jpeg",
+        "prize":4500
+
+    }
+
+
+]
